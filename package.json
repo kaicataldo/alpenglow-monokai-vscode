@@ -1,0 +1,22 @@
+{
+    "name": "alpenglow-monokai",
+    "displayName": "alpenglow-monokai",
+    "description": "A port of the [Alpenglow Monokai](https://github.com/AlpenglowTheme/alpenglow-theme) syntax theme for VS Code",
+    "version": "0.0.1",
+    "publisher": "Alpenglow",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alpenglow - Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Alpenglow-monokai.tmTheme"
+            }
+        ]
+    }
+}
