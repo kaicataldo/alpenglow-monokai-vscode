@@ -1,6 +1,6 @@
-# alpenglow-monokai-atom-syntax theme
+# alpenglow-monokai-vscode theme
 
-A port of the [Alpenglow Monokai](https://github.com/AlpenglowTheme/alpenglow-theme) syntax theme for Atom
+A port of the [Alpenglow Monokai](https://github.com/AlpenglowTheme/alpenglow-theme) syntax theme for Visual Studio Code.
 
 ## Screenshots
 
