@@ -154,8 +154,6 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#6c99bb</string>
 			</dict>
@@ -167,8 +165,6 @@
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
 				<key>foreground</key>
 				<string>#b4c973</string>
 			</dict>
@@ -180,8 +176,6 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic underline</string>
 				<key>foreground</key>
 				<string>#b4c973</string>
 			</dict>
@@ -206,8 +200,6 @@
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#E87D3E</string>
 			</dict>
@@ -271,8 +263,6 @@
 			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#6c99bb</string>
 			</dict>
